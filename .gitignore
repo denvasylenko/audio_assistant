@@ -1,0 +1,10 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__
+
+# Vosk model directory
+vosk-model-small-en-us-0.15
+
+
+# app.py
+app.py
